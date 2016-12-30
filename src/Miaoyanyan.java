@@ -13,7 +13,7 @@ import java.util.regex.Pattern;
 public class Miaoyanyan
 {
 	public static void main(String[] args)  throws IOException
-	{
+	{ 
 		for(int i=1;i<=4;i++)
 		wxs("E:\\苗艳艳语料\\毕飞宇\\文本\\"+i+".txt","毕飞宇"+i);
 		for(int i=1;i<=4;i++)

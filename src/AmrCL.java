@@ -15,7 +15,7 @@ import java.util.StringTokenizer;
 public class AmrCL 
 {
 	public static void main(String[] args) throws IOException {
-		
+		 
 	    String input_file = "";
 	    String output_file = "";
 	    

@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * 文本断大句
+ * 文本断大句 
  *
  */
 public class SmallSentence
